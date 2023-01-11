@@ -22,6 +22,8 @@ public class Main {
         System.out.println(o);
         System.out.println(c3);
 
+        System.out.println("App is finishing");
+
 
 
 

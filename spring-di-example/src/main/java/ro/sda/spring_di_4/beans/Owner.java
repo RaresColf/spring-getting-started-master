@@ -5,7 +5,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Owner {
-
     private Cat cat;
 
     public Owner(Cat cat) {
@@ -20,3 +19,4 @@ public class Owner {
         this.cat = cat;
     }
 }
+

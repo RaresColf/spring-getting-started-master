@@ -11,11 +11,11 @@ public class Cat {
 
     @PostConstruct
     public void init() {
-        System.out.println("Cat was created");
+        System.out.println("Cat was created!");
     }
 
     @PreDestroy
     public void destroy() {
-        System.out.println("Cat is destroying");
+        System.out.println("Cat is destroying!");
     }
 }

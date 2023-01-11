@@ -15,6 +15,7 @@
     <module>http-protocol-example</module>
     <module>dependency-injection-example</module>
     <module>spring-di-example</module>
+      <module>spring-hello-service</module>
   </modules>
 
   <properties>
