@@ -17,6 +17,7 @@
     <module>spring-di-example</module>
       <module>spring-hello-service</module>
       <module>spring-aop-example</module>
+      <module>spring-database-layer</module>
   </modules>
 
   <properties>
