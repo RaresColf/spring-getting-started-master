@@ -3,6 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/spring-aop-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-aop-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-first-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-first-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rest-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-rest-app/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-database-layer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-database-layer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-hello-service/src/main/java" charset="UTF-8" />

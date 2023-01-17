@@ -9,9 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-di-example" />
         <module name="json-example" />
+        <module name="spring-boot-first-project" />
         <module name="spring-hello-service" />
         <module name="dependency-injection-example" />
         <module name="spring-database-layer" />
+        <module name="spring-boot-rest-app" />
         <module name="spring-aop-example" />
         <module name="http-protocol-example" />
       </profile>

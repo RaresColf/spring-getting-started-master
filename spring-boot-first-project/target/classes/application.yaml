@@ -1,0 +1,11 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: "My First Spring Boot App"
+
+logging:
+  level:
+    root: DEBUG
+    org.springframework.web: DEBUG

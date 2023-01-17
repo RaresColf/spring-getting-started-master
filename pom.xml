@@ -18,6 +18,8 @@
       <module>spring-hello-service</module>
       <module>spring-aop-example</module>
       <module>spring-database-layer</module>
+      <module>spring-boot-first-project</module>
+    <module>spring-boot-rest-app</module>
   </modules>
 
   <properties>
