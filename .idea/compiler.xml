@@ -13,6 +13,7 @@
         <module name="spring-hello-service" />
         <module name="dependency-injection-example" />
         <module name="spring-database-layer" />
+        <module name="spring-boot-product-app" />
         <module name="spring-boot-rest-app" />
         <module name="spring-aop-example" />
         <module name="http-protocol-example" />
